@@ -24,7 +24,3 @@ This project is a modern web application for managing real estate properties, or
 - Hibernate: ORM for database interactions.
 - Original Backend (MERN)
 
-## MongoDB
-- Express
-- Node.js
-
